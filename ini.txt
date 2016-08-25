@@ -1,3 +1,0 @@
-; XAMPP: Comment out this if you want to work with an SMTP S; XAMPP: Comment out this if you want to work with an SMTP Server like Mercury
-; For Win32 only.
-; http://php.net/sendmail-fromerver like Mercury
